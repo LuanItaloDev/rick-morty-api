@@ -1,4 +1,3 @@
-import imgBeth from "../../../img/4.jpeg"
 
 import "../card/card.css"
 export default function Card() {
