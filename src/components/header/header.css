@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    height: 40vh;  
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.Header h1{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900s;
+}
