@@ -5,7 +5,11 @@ export default function Cards() {
     return (
       <div className="cards">
         <div className="containerCards">
-        <Card/>
+          <div className="itemsCard">
+            <Card/>
+            <Card/>
+            <Card/>
+          </div>
         </div>
       </div>
     );
